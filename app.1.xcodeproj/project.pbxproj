@@ -14,6 +14,19 @@
 		BE7A4F4D20E7289A00272710 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE7A4F4B20E7289A00272710 /* LaunchScreen.storyboard */; };
 		BE7A4F5820E7289A00272710 /* app_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7A4F5720E7289A00272710 /* app_1Tests.swift */; };
 		BE7A4F6320E7289A00272710 /* app_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7A4F6220E7289A00272710 /* app_1UITests.swift */; };
+		BE7A4F7B20E746EC00272710 /* ボタンstart.png in Resources */ = {isa = PBXBuildFile; fileRef = BE7A4F7A20E746EB00272710 /* ボタンstart.png */; };
+		BE7A4F7D20F095BE00272710 /* cloud.png in Resources */ = {isa = PBXBuildFile; fileRef = BE7A4F7C20F095BD00272710 /* cloud.png */; };
+		BE7A4F8120F0A18100272710 /* ミラクルカード.png in Resources */ = {isa = PBXBuildFile; fileRef = BE7A4F7E20F0A17E00272710 /* ミラクルカード.png */; };
+		BE7A4F8220F0A18100272710 /* ノーマルカード.png in Resources */ = {isa = PBXBuildFile; fileRef = BE7A4F7F20F0A17F00272710 /* ノーマルカード.png */; };
+		BE7A4F8320F0A18100272710 /* レアカード.png in Resources */ = {isa = PBXBuildFile; fileRef = BE7A4F8020F0A18000272710 /* レアカード.png */; };
+		BE7A4F8520F0A9FE00272710 /* battleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE7A4F8420F0A9FE00272710 /* battleViewController.swift */; };
+		BE7A4F8720F0B72000272710 /* コスト.png in Resources */ = {isa = PBXBuildFile; fileRef = BE7A4F8620F0B71E00272710 /* コスト.png */; };
+		BED8E662218D8966000C2B55 /* 綱引き.png in Resources */ = {isa = PBXBuildFile; fileRef = BED8E661218D8966000C2B55 /* 綱引き.png */; };
+		BED8E664219FFCBE000C2B55 /* スクリーンショット 2018-09-29 17.07.40.png in Resources */ = {isa = PBXBuildFile; fileRef = BED8E663219FFCBE000C2B55 /* スクリーンショット 2018-09-29 17.07.40.png */; };
+		BED8E668219FFE4C000C2B55 /* start_app1.png in Resources */ = {isa = PBXBuildFile; fileRef = BED8E667219FFE4C000C2B55 /* start_app1.png */; };
+		BED8E66A21A0059D000C2B55 /* 半透明.png in Resources */ = {isa = PBXBuildFile; fileRef = BED8E66921A0059D000C2B55 /* 半透明.png */; };
+		BED8E66C21A00E76000C2B55 /* 半透明1.png in Resources */ = {isa = PBXBuildFile; fileRef = BED8E66B21A00E76000C2B55 /* 半透明1.png */; };
+		BEDB354D215F6458001C7A9C /* スクリーンショット 2018-09-29 15.54.08.png in Resources */ = {isa = PBXBuildFile; fileRef = BEDB354C215F6458001C7A9C /* スクリーンショット 2018-09-29 15.54.08.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +60,19 @@
 		BE7A4F5E20E7289A00272710 /* app.1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = app.1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE7A4F6220E7289A00272710 /* app_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = app_1UITests.swift; sourceTree = "<group>"; };
 		BE7A4F6420E7289A00272710 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BE7A4F7A20E746EB00272710 /* ボタンstart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ボタンstart.png"; sourceTree = "<group>"; };
+		BE7A4F7C20F095BD00272710 /* cloud.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cloud.png; sourceTree = "<group>"; };
+		BE7A4F7E20F0A17E00272710 /* ミラクルカード.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ミラクルカード.png"; sourceTree = "<group>"; };
+		BE7A4F7F20F0A17F00272710 /* ノーマルカード.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ノーマルカード.png"; sourceTree = "<group>"; };
+		BE7A4F8020F0A18000272710 /* レアカード.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "レアカード.png"; sourceTree = "<group>"; };
+		BE7A4F8420F0A9FE00272710 /* battleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = battleViewController.swift; sourceTree = "<group>"; };
+		BE7A4F8620F0B71E00272710 /* コスト.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "コスト.png"; sourceTree = "<group>"; };
+		BED8E661218D8966000C2B55 /* 綱引き.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "綱引き.png"; sourceTree = "<group>"; };
+		BED8E663219FFCBE000C2B55 /* スクリーンショット 2018-09-29 17.07.40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "スクリーンショット 2018-09-29 17.07.40.png"; sourceTree = "<group>"; };
+		BED8E667219FFE4C000C2B55 /* start_app1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = start_app1.png; sourceTree = "<group>"; };
+		BED8E66921A0059D000C2B55 /* 半透明.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "半透明.png"; sourceTree = "<group>"; };
+		BED8E66B21A00E76000C2B55 /* 半透明1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "半透明1.png"; sourceTree = "<group>"; };
+		BEDB354C215F6458001C7A9C /* スクリーンショット 2018-09-29 15.54.08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "スクリーンショット 2018-09-29 15.54.08.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,9 +123,22 @@
 		BE7A4F4120E7289400272710 /* app.1 */ = {
 			isa = PBXGroup;
 			children = (
+				BED8E66B21A00E76000C2B55 /* 半透明1.png */,
+				BED8E66921A0059D000C2B55 /* 半透明.png */,
+				BED8E667219FFE4C000C2B55 /* start_app1.png */,
+				BED8E663219FFCBE000C2B55 /* スクリーンショット 2018-09-29 17.07.40.png */,
+				BED8E661218D8966000C2B55 /* 綱引き.png */,
+				BEDB354C215F6458001C7A9C /* スクリーンショット 2018-09-29 15.54.08.png */,
+				BE7A4F7C20F095BD00272710 /* cloud.png */,
 				BE7A4F4220E7289400272710 /* AppDelegate.swift */,
+				BE7A4F7A20E746EB00272710 /* ボタンstart.png */,
 				BE7A4F4420E7289400272710 /* ViewController.swift */,
+				BE7A4F8420F0A9FE00272710 /* battleViewController.swift */,
 				BE7A4F4620E7289400272710 /* Main.storyboard */,
+				BE7A4F8620F0B71E00272710 /* コスト.png */,
+				BE7A4F7F20F0A17F00272710 /* ノーマルカード.png */,
+				BE7A4F7E20F0A17E00272710 /* ミラクルカード.png */,
+				BE7A4F8020F0A18000272710 /* レアカード.png */,
 				BE7A4F4920E7289A00272710 /* Assets.xcassets */,
 				BE7A4F4B20E7289A00272710 /* LaunchScreen.storyboard */,
 				BE7A4F4E20E7289A00272710 /* Info.plist */,
@@ -229,9 +268,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BE7A4F8720F0B72000272710 /* コスト.png in Resources */,
 				BE7A4F4D20E7289A00272710 /* LaunchScreen.storyboard in Resources */,
+				BEDB354D215F6458001C7A9C /* スクリーンショット 2018-09-29 15.54.08.png in Resources */,
+				BE7A4F8120F0A18100272710 /* ミラクルカード.png in Resources */,
+				BE7A4F8220F0A18100272710 /* ノーマルカード.png in Resources */,
+				BED8E66A21A0059D000C2B55 /* 半透明.png in Resources */,
+				BE7A4F7D20F095BE00272710 /* cloud.png in Resources */,
+				BE7A4F7B20E746EC00272710 /* ボタンstart.png in Resources */,
 				BE7A4F4A20E7289A00272710 /* Assets.xcassets in Resources */,
+				BED8E668219FFE4C000C2B55 /* start_app1.png in Resources */,
+				BED8E66C21A00E76000C2B55 /* 半透明1.png in Resources */,
+				BED8E662218D8966000C2B55 /* 綱引き.png in Resources */,
 				BE7A4F4820E7289400272710 /* Main.storyboard in Resources */,
+				BED8E664219FFCBE000C2B55 /* スクリーンショット 2018-09-29 17.07.40.png in Resources */,
+				BE7A4F8320F0A18100272710 /* レアカード.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,6 +309,7 @@
 			files = (
 				BE7A4F4520E7289400272710 /* ViewController.swift in Sources */,
 				BE7A4F4320E7289400272710 /* AppDelegate.swift in Sources */,
+				BE7A4F8520F0A9FE00272710 /* battleViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
